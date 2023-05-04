@@ -1,9 +1,9 @@
 Geo data for Kazakhstan regions.
 
-#Data
+# Data
 
 GeoJSON
 
-License
+# License
 
 This dataset is licensed under the Open Data Commons Public Domain and Dedication License.
