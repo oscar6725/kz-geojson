@@ -1,4 +1,4 @@
-Geo data for Kazakhstan regions.
+Geo data for Kazakhstan regions and districts.
 
 # Data
 
